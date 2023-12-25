@@ -1,1 +1,1 @@
-# LungSeg_with_Python
+# Lung Segmentation
